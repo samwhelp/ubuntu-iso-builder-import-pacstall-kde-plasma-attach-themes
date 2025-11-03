@@ -10,7 +10,7 @@
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-kde-plasma-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-kde-plasma-attach-themes) |
 | `=` |
-| [ubuntu-iso-builder-include-pacstall-kde-plasma-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-kde-plasma-theme-vimix) |
+| [ubuntu-iso-builder-include-pacstall-kde-plasma-attach-themes](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-kde-plasma-attach-themes) |
 
 
 
